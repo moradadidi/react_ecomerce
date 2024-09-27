@@ -16,7 +16,10 @@ Cart Management: Add and remove items from the cart using local storage for a se
 
 Form Validation: Ensure data integrity with robust validation techniques.
 Dynamic Updates: Leverage React hooks to manage real-time updates and interactions.
+
+
 Libraries & Tools Used
+
 summary-grid-react: For a stylish and responsive product grid layout.
 framer-motion: Add smooth animations and transitions to enhance user experience.
 react-toastify: Interactive and user-friendly notifications for feedback on user actions.
@@ -29,7 +32,11 @@ useCallback: Optimize performance by memoizing callback functions, preventing un
 Styling
 Tailwind CSS: Clean and responsive design framework used for layout and styling.
 Custom CSS: Additional custom styles were applied for fine-tuning the design and enhancing UI elements.
+
+
 Features
+
+
 Product Listings: Display products dynamically with filtering and sorting options.
 Shopping Cart: Users can add, remove, and update quantities in the cart.
 User Authentication: Secure sign-up and login functionality using JWT (JSON Web Tokens) or Firebase.
